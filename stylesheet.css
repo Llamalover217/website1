@@ -8,6 +8,10 @@ h1{
 h3{
     color: rgb(255, 0, 0);
 }
-div{
+.navbar {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: rgb(185, 219, 245);
     text-align: center;
-}
+    padding: 10px;
+  }
