@@ -10,7 +10,7 @@ h3{
 }
 .navbar {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto;
     background-color: rgb(43, 255, 0);
     color: rgb(255, 255, 255);
     text-align: center;
